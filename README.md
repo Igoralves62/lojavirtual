@@ -1,1 +1,4 @@
 # lojavirtual
+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
+
+texto alterado no repositório local
